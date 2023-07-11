@@ -1,6 +1,6 @@
 [package]
 name = "gotest"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors= ["Aryan Shetty"]
 description= "A testing utility wrapper for Go written in Rust and Bash"
